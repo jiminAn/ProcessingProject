@@ -8,4 +8,4 @@
 
 ## '상명'을 주제로 한 프로세싱 개인 프로젝트(2)
 
-  {% include vedio.html id="https://www.youtube.com/watch?v=Lu0hNYv2sYE" %}  
+  {% include video.html id="https://www.youtube.com/watch?v=Lu0hNYv2sYE" %}  
