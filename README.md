@@ -8,4 +8,4 @@
 
 ## '상명'을 주제로 한 프로세싱 개인 프로젝트(2)
 
-[![Video Label](https://www.youtube.com/watch?v=Lu0hNYv2sYE.jpg)](https://www.youtube.com/watch?v=Lu0hNYv2sYEs)
+[![processing](https://www.youtube.com/watch?v=Lu0hNYv2sYE.jpg)](https://www.youtube.com/watch?v=Lu0hNYv2sYE)
